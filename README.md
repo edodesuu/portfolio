@@ -31,9 +31,6 @@
 <a href="https://github.com/edodesuu/BotZadaniye">
   <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://t.me/YOUR_BOT_LINK">
-  <img src="https://img.shields.io/badge/Live_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 
 ---
 
